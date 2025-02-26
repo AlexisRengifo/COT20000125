@@ -12,8 +12,9 @@ In Python, a set is an unordered collection of unique elements. Sets are defined
 my_set = {1, 2, 3, 4, 5, 6, 7}   # This creates a set with elements 1, 2, 3, 4, 5
 print(my_set)              # Print the set to see its elements
 
-# Practice: Try adding more elements to the set and print it again
+Practice: Try adding more elements to the set and print it again
 {1, 2, 3, 4, 5, 6, 7}
+
 Membership Testing
 Sets in Python are particularly useful for testing membership, i.e., checking whether an element is in a set. This operation is very efficient. Here is an example of how to test if specific elements are present in a set:
 
